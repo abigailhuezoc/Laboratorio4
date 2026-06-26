@@ -1,6 +1,6 @@
 # Laboratorio_4 - API REST con Flask
-
-ddyhtytf
+Este proyecto implementa una API REST para adminsitrar el
+catálago de productos de TecnoMarket en memoria.
 
 ## Instrucciones para ejecutar la aplicación
 
